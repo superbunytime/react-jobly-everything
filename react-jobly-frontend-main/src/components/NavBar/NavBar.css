@@ -1,0 +1,27 @@
+.navbar-text-logo{
+    color: white;
+    /* text-shadow: 2px 2px 5px #34302f; */
+    font-weight: bold;
+}
+.navbar-user-name{
+    color: wheat;
+    font-weight: bold;
+}
+.navbar-profile-image{
+   width: 32px;
+   height: 32px;
+   border-radius: 50%;
+   border: solid wheat 3px;
+   object-fit: cover;
+}
+.NavBar{
+    text-shadow: 2px 2px 5px #34302f;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+}

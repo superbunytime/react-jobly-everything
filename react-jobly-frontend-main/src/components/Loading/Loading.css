@@ -1,0 +1,12 @@
+
+.Loading{
+    color: #ffff;
+    text-align: center;
+    height: calc(100vh - 150px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 2px 2px 5px #34302f;
+    background-color: transparent;
+}

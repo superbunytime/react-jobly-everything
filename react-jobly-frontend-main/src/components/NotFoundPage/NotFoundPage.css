@@ -1,0 +1,9 @@
+.mg-404{
+    width: 200px;
+    height: 150px; 
+object-fit:cover;
+}
+.NotFoundPage{
+color: #000;
+text-align: center;
+}
